@@ -1,0 +1,2 @@
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\Q部署的时候 Gemfile.lock 文件要添加 参照https://ruby-china.org/topics/41719\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q部署的时候 Gemfile.lock 文件要添加 参照https://ruby-china.org/topics/41719\\E$"}

@@ -14,19 +14,21 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: N・H・K にようこそ！ # the main title
+title: Langle # the main title
 
-tagline: MsEspeon@随便写写 # it will display as the sub-title
+tagline: 记录流水账 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A personal blog for recording everyday life, technical learning, and pieces of thoughts.
+  "Every failure is leading towards success."
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://ittousei.github.io"
+url: "https://langle0612.me"
+
+github_repo: "https://github.com/Lmenglon/Lmenglon.github.io.git"
 
 github:
-  username: ittousei # change to your github username
+  username: Lmenglon # change to your github username
 
 twitter:
   username: # change to your twitter username
@@ -34,11 +36,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: MsEspeon
-  email: missingespeon@gmail.com # change to your email address
+  name: Lmenglon
+  email: langle061213@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/ittousei # change to your github homepage
+    - https://github.com/Lmenglon # change to your github homepage
     # Uncomment below to add more social links
     # - https://twitter.com/username
     # - https://www.facebook.com/username
@@ -115,10 +117,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "ittousei/ittousei.github.io" # <gh-username>/<repo>
-    repo_id: "R_kgDOLwStXQ"
-    category: "General"
-    category_id: "DIC_kwDOLwStXc4Ce0Hd"
+    repo: "Lmenglon/Lmenglon.github.io" # <gh-username>/<repo>
+    repo_id: "R_kgDOMWZvcw"
+    category: "Announcements"
+    category_id: "DIC_kwDOMWZvc84Ckxyx"
     mapping: "title" # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: "top" # optional, default to 'bottom'

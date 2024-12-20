@@ -28,7 +28,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://drop-ps1.fullyjus
 
 添加当前路径为环境变量
 
-###测试
+### 测试
 ```shell
 tectonic -V  
 ## tectonic 0.15.0Tectonic 0.15.0
